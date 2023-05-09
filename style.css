@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+.top-part{
+    background-image: linear-gradient(gray, #314977);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 80px 0;
+}
+.text-part{
+    width: 45%;
+    padding: 30px;
+}
+.text-part h1{
+    font-size: 55px;
+    color: #fff;
+    margin: 0;
+    margin-bottom: 45px;
+}
+.text-part h5{
+    color: #fff;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.text-part p{
+    font-size: 22px;
+    color: #fff;
+}
+.img-part{
+    width: 55%;
+    padding: 80px;
+}
+
+.img-part img {
+    width: 100%;
+}
+
+.text-part{
+    margin-top: 80px;
+}
+
+.link-button-div{
+    margin-top: 60px;
+}
+
+.link-button-div .link-button-1{
+    text-decoration: none;
+    background-color: #334B7B;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #fff;
+    margin-right: 20px;
+}
+.link-button-div .link-button-2{
+    text-decoration: none;
+    border: 2px solid #334B7B;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+.three-part-section{
+    background-color: #324976;
+}
+.three-col-part{
+    width: 29%;
+    margin-right: 68px;
+    margin-bottom: 60px;
+    padding: 80px 40px;
+    background-color: #fff;
+    position: relative;
+}
+.three-col-part img{
+    width: 20%;
+}
+.three-col-part hr{
+    width: 15%;
+    height: 2px;
+    position: absolute;
+    background-color: red;
+    border: none;
+}
+
+.support-section{
+    background-color: #324976;
+    padding: 80px 0;
+}
+
+.support-item-1{
+    padding: 0;
+}
+
+.support-item-2{
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
+.support-item-2 h2{
+    font-size: 38px;
+    color:#fff;
+}
+.support-item-2 p {
+    font-size: 20px;
+}
+
+.learn-more a{
+    text-decoration: none;
+    background-color: #334B7B;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.our-course-section{
+    background-color: #324976;
+    padding: 80px 0;
+}
+
+.our-course h5{
+    margin: 0;
+    margin-bottom: 10px;
+    color: gray;
+}
+
+.our-course h2 {
+    font-size: 38px;
+    color:#fff;
+    margin: 0;
+}
+
+.our-course p{
+    font-size: 20px;
+    color: #fff;
+}
+.our-course-container{
+    width: 80%;
+    margin: 0 auto;
+}
+.course-details{
+    width: 29%;
+    background-color: #fff;
+    margin-right: 45px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+.course-details .course-text{
+    padding: 0 30px;
+}
+.course-details .course-details-img img{
+    width: 100%;
+}
+.course-details .math{
+    display: flex;
+    justify-content: space-between;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+.learn-more-2{
+    margin: 0;
+    margin-top: 20px;
+}
+.link-button-div .learn{
+    color: #324976;
+    border-radius: 50px;
+}
+.subscribe-section{
+    background-color: #324976;
+    padding: 80px 0;
+}
+.sub{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.subscribe input{
+    padding: 10px 20px;
+}
+.subscribe button{
+    padding: 11px 20px;
+    margin-left: -5px;
+    border: none;
+}
